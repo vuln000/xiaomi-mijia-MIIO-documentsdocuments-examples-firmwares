@@ -7,7 +7,7 @@ Collections of xiaomi/mijia MIIO documents/examples/firmwares
 ## MIIO official
 https://github.com/aholstenson/miio
 
-## 小米智能硬件开放平台
+## MIIO Open
 https://github.com/MiEcosystem/miio_open
 
 ## python-miio
