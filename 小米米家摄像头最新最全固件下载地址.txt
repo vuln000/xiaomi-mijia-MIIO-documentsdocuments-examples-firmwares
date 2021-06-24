@@ -1,0 +1,152 @@
+· 产品型号：MJSXJ02CM 小米智能摄像机云台版
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc009/firmware/IPC009_4.0.9_0409.zip
+
+
+
+· 产品型号：MJSXJ05CM 小米智能摄像机云台版
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc019/firmware/IPC019_4.0.9_0426.zip
+
+
+
+*注意：以上两款型号不通用！
+
+
+
+· 产品型号：MJSXJ10CM 小米智能摄像机 云台版 SE+ 
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/IPC026C02/IPC026C02_4.1.4_0084.rar
+
+
+
+· 产品型号：MJSXJ07CM 小米智能摄像机 AI探索版 
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/IPC022/IPC022_4.1.6_0073.rar
+
+
+
+· 产品型号：CMSXJ16A 小白智能摄像机云台版
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc016/firmware/IPC016_16.4.0.9_0213.zip
+
+
+
+· 产品型号：CMSXJ36C 小白智能摄像机云台版 Y2
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/IPC036C02/firmware/IPC036C02_4.1.2_0035.rar
+
+
+
+· 产品型号：CMSXJ25A 小白智能摄像机 户外云台版 N1
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc025/firmware/IPC025_4.0.9_0102.zip
+
+
+
+· 产品型号：CMSXJ25A 小白智能摄像机 户外云台版 N3
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc025b02/IPC025B02_4.0.4_0098.zip
+
+*注意：以上两款型号不通用！
+
+
+· 产品型号：CMSXJ19E 小白智能摄像机A1
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc019e/IPC019E_3.5.8_0166.zip
+
+
+
+· 产品型号：CMSXJ19E 小白智能摄像机A1母婴版
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc019e04/IPC019E04_3.5.8_0146.zip
+
+*注意：以上两款型号不通用！
+
+
+
+· 产品型号：CMSXJ21E 小白智能摄像机A2
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/IPC021E02/firmware/IPC021E02_4.1.2_0061.rar
+
+
+· 产品型号：MJSXJ09CM 小米智能摄像机 云台版2K
+    产品ID（SN前五位）：27292
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc029a/IPC029A_4.0.9_0267.rar
+
+
+· 产品型号：MJSXJ09CM 小米智能摄像机 云台版2K
+    产品ID（SN前五位）：31375 
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/IPC029A02/firmware/IPC029A02_4.1.2_0281.rar
+
+
+· 产品型号：MJSXJ06CM 小米智能摄像机 云台版Pro 
+
+    产品ID（SN前五位）：26537
+https://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc021/IPC021_4.0.9_0178.zip
+
+
+
+· 产品型号：MJSXJ06CM 小米智能摄像机 云台版Pro
+
+  产品ID（SN前五位）：30486
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/IPC021A04/firmware/IPC021A04_4.1.2_0282.rar
+
+*注意：以上两款型号不通用！
+
+
+· 产品型号：MJSXJ08CM 小米智能摄像机 云台版SE
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc026c/IPC026C_4.0.9_0268.rar
+
+
+
+· 产品型号：MJSXJ01CM 米家智能摄像机云台版
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc003/firmware/IPC003_3.5.7_2019111816.zip
+
+
+
+· 产品型号：CMMY18A 小白智能猫眼
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc018/firmware/IPC018_3.5.8_2293.zip
+
+
+· 产品型号：CMSXJ01C 小白智能摄像机大众版
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc006/firmware/IPC006_3.3.6_2018121218.zip 
+
+
+· 产品型号：CMSXJ27A 小白智能摄像机大众版 C1 
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/IPC027A02/firmware/IPC027A02_4.1.2_0037.rar
+
+
+· 产品型号：CMSXJ03C 小白智能摄像机1080P云台版
+https://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc004/firmware/IPC004_3.3.6_2018121218.zip
+
+
+· 产品型号：CMSXJ13A 小白智能摄像机青春版
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc013/firmware/IPC013A_13.3.5.8_0087.zip
+
+
+· 产品型号：CMSXJ19B 小白智能摄像机青春版
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc019B/firmware/IPC019B_3.5.8_0053.zip
+
+*注意：以上两款型号不通用！
+
+· 产品型号：MJSXJ03CM 小米智能摄像机增强版
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc007/firmware/IPC007A_3.5.8_20031301_C.zip
+
+
+· 产品型号：CMSXJ05C 小白智能摄像机旗舰版
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc007B/firmware/IPC007B_3.5.7_19111803.zip
+
+
+· 产品型号：JTSXJ01CM 米家小白智能摄像机
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc002/firmware/IPC002_3.5.7_2019111804.zip
+
+
+· 产品型号：CMSXJ04C 小白智能摄像机大众版1080P
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc010/firmware/IPC010_3.3.6_2018062609.zip
+
+
+· 产品型号：CMSXJ17A 小白智能摄像机大众版1080P
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc017/firmware/IPC017_3.5.8_0097.zip
+
+*注意：以上两款型号不通用！
+
+· 产品型号：CMSXJ02C 小白智能摄像机mini
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc005/firmware/IPC005_3.3.6_2018062609.zip
+
+
+· 产品型号：CMSXJ13D 小白智能摄像机增强版
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc013d/firmware/IPC013D_13d.3.5.8_0080.zip
+
+
+· 产品型号：CMSXJ13A 小白智能摄像机720P青春版
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc013C/firmware/IPC013C_13c.3.4.2_0072.zip
