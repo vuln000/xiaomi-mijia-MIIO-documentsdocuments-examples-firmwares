@@ -16,6 +16,9 @@ https://github.com/rytilahti/python-miio
 ## Xiaomi Gateway3 firmwares
 https://github.com/niceboygithub/XiaomiGateway3fw
 
+## Xiaomi Mi Home Binary Protocol
+https://github.com/OpenMiHome/mihome-binary-protocol/blob/master/doc/PROTOCOL.md
+
 
 # About security research
 
